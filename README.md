@@ -1,2 +1,2 @@
 # SortingAlgorithms
-Created by Samoilenko Denys
+Created by Samoilenko Denys kv-21
