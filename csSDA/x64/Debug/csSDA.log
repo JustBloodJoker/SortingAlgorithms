@@ -1,0 +1,36 @@
+﻿  Algorithms.c
+  FillArray.c
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\FillArray.c(10,45): warning C4013: 'rand' undefined; assuming extern returning int
+  Measurement.c
+  TestingAlgorithms.c
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\TestingAlgorithms.c(63,9): warning C4101: 'imin': unreferenced local variable
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\TestingAlgorithms.c(63,15): warning C4101: 'temp': unreferenced local variable
+  main.c
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(18,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(74,46): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(74,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(78,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(78,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(82,46): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(82,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(87,46): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(87,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(88,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(88,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(89,46): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(89,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(122,9): warning C4013: 'getch' undefined; assuming extern returning int
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(140,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(140,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(144,42): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(144,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(148,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(148,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(153,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(153,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(154,42): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(154,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(155,44): warning C4047: 'function': 'void *(__cdecl *)(int)' differs in levels of indirection from 'void (__cdecl *)(int)'
+D:\Downloads\Telegram\csSDA\csSDA\csSDA\main.c(155,24): warning C4022: 'Option': pointer mismatch for actual parameter 1
+  Generating Code...
+  csSDA.vcxproj -> D:\Downloads\Telegram\csSDA\csSDA\x64\Debug\csSDA.exe
